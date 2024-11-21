@@ -7,7 +7,7 @@
 
 # Education
 |Qualification |Institute   | Year |
-|..............|............|......|  
+|--------------|------------|------|  
 |10th Class    |STBA,BIKANER|2021  |
 |12th Class    |STBA,BIKANER|2023  |
 |B.Tech        |MNIT,JAIPUR |2027  |
